@@ -1,0 +1,5 @@
+services:
+  app:
+    image: gitverse.ru/your-namespace/space-rescue:latest
+    ports:
+      - "8000:8000"
